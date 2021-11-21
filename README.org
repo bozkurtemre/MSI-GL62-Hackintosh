@@ -46,9 +46,6 @@ installed is to follow the guide list below step by step.
 *** CPU
 - [[https://github.com/stevezhengshiqi/one-key-cpufriend][one-key-cpufriend]]
 
-*** Fan Control
-- [[https://github.com/YoyPa/isw/wiki/MSI-G-laptop-EC---Rosetta][How EC work]]
-
 *** Bluetooth
 - [[https://github.com/OpenIntelWireless/IntelBluetoothFirmware][OpenIntelWireless/IntelBluetoothFirmware]]
 
