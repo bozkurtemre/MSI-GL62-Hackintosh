@@ -37,9 +37,6 @@ installed is to follow the guide list below step by step.
 - [[https://bjango.com/mac/istatmenus/][iStat Menus]]
 - [[https://github.com/kozlek/HWSensors][HWSensors]]
 
-*** NTFS Writer
-- [[http://enjoygineering.com/mounty/][Mounty]]
-
 ** Installation
 [[https://github.com/dortania/OpenCore-Install-Guide][Dortania's OpenCore Install Guide]]
 
